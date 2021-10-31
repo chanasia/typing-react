@@ -1,0 +1,72 @@
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 187px;
+    overflow: hidden;
+    scroll-behavior: smooth;
+    justify-content: space-between;  
+    user-select: none;
+    
+    .word{
+        margin: 0 5px 2px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        .thai{
+            font-family: var(--ibm-plex-thai-font);
+            color: var(--thai-color) !important;
+            font-size: 1.2rem;
+            font-weight: 700;
+        }
+        .eng{
+            font-family: var(--inconsolata-font) !important;
+            font-size: 21pt;
+            color: var(--test-color);
+            font-weight: bold;
+        }
+        .right{
+            color: var(--right-color);
+        }
+        span.wrong {
+            color: var(--wrong-color);
+		}
+        &.wrong .eng{
+            color: var(--wrong-color);
+            span:not(.right){
+                text-decoration: 2px underline var(--wrong-color);
+            }
+        }
+        &.right .eng{
+            color: var(--font-color)
+        }
+        .extra {
+            opacity: 0.6;
+        }
+    }
+    .word#active{
+        .eng{
+            position: relative;
+            width: max-content;
+        }
+        #caret{
+            position: absolute;
+            margin-left: -7.29165px;
+            color: var(--font-color);
+            transition: left .1s ease;
+            &.blink{
+                animation: blink 1.5s infinite 1s;
+            }
+        }
+        @keyframes blink {
+            0%,
+            100% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0;
+            }
+        }
+    }
+}

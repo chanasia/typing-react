@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&family=Kanit:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    --ibm-plex-thai-font: 'IBM Plex Sans Thai', sans-serif;
+    --kanit-font: 'Kanit', sans-serif;
+    --inconsolata-font : 'Inconsolata', monospace;
+    --roboto-mono-font: 'Roboto Mono', monospace;
+
+    --bg-color: #efefef;
+    --test-color: #777;
+    --font-color: #333;
+    --right-color: #333;
+    --wrong-color: red;
+    --thai-color: rgb(88, 57, 16);
+    background-color: var(--bg-color);
+}

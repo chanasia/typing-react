@@ -1,0 +1,804 @@
+{
+    "words": [
+      {
+        "eng": "the",
+        "thai": "NS"
+      },
+      {
+        "eng": "be",
+        "thai": "เป็น"
+      },
+      {
+        "eng": "of",
+        "thai": "ของ"
+      },
+      {
+        "eng": "and",
+        "thai": "และ"
+      },
+      {
+        "eng": "a",
+        "thai": "NS"
+      },
+      {
+        "eng": "to",
+        "thai": "ถึง"
+      },
+      {
+        "eng": "in",
+        "thai": "ใน"
+      },
+      {
+        "eng": "he",
+        "thai": "เขา"
+      },
+      {
+        "eng": "have",
+        "thai": "มี"
+      },
+      {
+        "eng": "it",
+        "thai": "มัน"
+      },
+      {
+        "eng": "that",
+        "thai": "นั่น"
+      },
+      {
+        "eng": "for",
+        "thai": "สำหรับ"
+      },
+      {
+        "eng": "they",
+        "thai": "พวกเขา"
+      },
+      {
+        "eng": "I",
+        "thai": "ผม"
+      },
+      {
+        "eng": "with",
+        "thai": "กับ"
+      },
+      {
+        "eng": "as",
+        "thai": "เช่น"
+      },
+      {
+        "eng": "not",
+        "thai": "ไม่"
+      },
+      {
+        "eng": "on",
+        "thai": "บน"
+      },
+      {
+        "eng": "she",
+        "thai": "เธอ"
+      },
+      {
+        "eng": "at",
+        "thai": "ที่"
+      },
+      {
+        "eng": "by",
+        "thai": "โดย"
+      },
+      {
+        "eng": "this",
+        "thai": "นี้"
+      },
+      {
+        "eng": "we",
+        "thai": "เรา"
+      },
+      {
+        "eng": "you",
+        "thai": "คุณ"
+      },
+      {
+        "eng": "do",
+        "thai": "ทำ"
+      },
+      {
+        "eng": "but",
+        "thai": "แต่"
+      },
+      {
+        "eng": "from",
+        "thai": "จาก"
+      },
+      {
+        "eng": "or",
+        "thai": "หรือ"
+      },
+      {
+        "eng": "which",
+        "thai": "ที่"
+      },
+      {
+        "eng": "one",
+        "thai": "หนึ่ง"
+      },
+      {
+        "eng": "would",
+        "thai": "จะ"
+      },
+      {
+        "eng": "all",
+        "thai": "ทั้งหมด"
+      },
+      {
+        "eng": "will",
+        "thai": "จะ"
+      },
+      {
+        "eng": "there",
+        "thai": "ที่นั่น"
+      },
+      {
+        "eng": "say",
+        "thai": "พูด"
+      },
+      {
+        "eng": "who",
+        "thai": "ใคร"
+      },
+      {
+        "eng": "make",
+        "thai": "ทำ"
+      },
+      {
+        "eng": "when",
+        "thai": "เมื่อไร"
+      },
+      {
+        "eng": "can",
+        "thai": "สามารถ"
+      },
+      {
+        "eng": "more",
+        "thai": "มากกว่า"
+      },
+      {
+        "eng": "if",
+        "thai": "ถ้า"
+      },
+      {
+        "eng": "no",
+        "thai": "ไม่"
+      },
+      {
+        "eng": "man",
+        "thai": "ชาย"
+      },
+      {
+        "eng": "out",
+        "thai": "ออก"
+      },
+      {
+        "eng": "other",
+        "thai": "อื่น ๆ"
+      },
+      {
+        "eng": "so",
+        "thai": "ดังนั้น"
+      },
+      {
+        "eng": "what",
+        "thai": "อะไร"
+      },
+      {
+        "eng": "time",
+        "thai": "เวลา"
+      },
+      {
+        "eng": "up",
+        "thai": "ขึ้น"
+      },
+      {
+        "eng": "go",
+        "thai": "ไป"
+      },
+      {
+        "eng": "about",
+        "thai": "เกี่ยวกับ"
+      },
+      {
+        "eng": "than",
+        "thai": "กว่า"
+      },
+      {
+        "eng": "into",
+        "thai": "เข้าไปข้างใน"
+      },
+      {
+        "eng": "could",
+        "thai": "สามารถ"
+      },
+      {
+        "eng": "state",
+        "thai": "สถานะ"
+      },
+      {
+        "eng": "only",
+        "thai": "เท่านั้น"
+      },
+      {
+        "eng": "new",
+        "thai": "ใหม่"
+      },
+      {
+        "eng": "year",
+        "thai": "ปี"
+      },
+      {
+        "eng": "some",
+        "thai": "บาง"
+      },
+      {
+        "eng": "take",
+        "thai": "เอา"
+      },
+      {
+        "eng": "come",
+        "thai": "มา"
+      },
+      {
+        "eng": "these",
+        "thai": "เหล่านี้"
+      },
+      {
+        "eng": "know",
+        "thai": "ทราบ"
+      },
+      {
+        "eng": "see",
+        "thai": "ดู"
+      },
+      {
+        "eng": "use",
+        "thai": "ใช้"
+      },
+      {
+        "eng": "get",
+        "thai": "รับ"
+      },
+      {
+        "eng": "like",
+        "thai": "ชอบ"
+      },
+      {
+        "eng": "then",
+        "thai": "แล้ว"
+      },
+      {
+        "eng": "first",
+        "thai": "แรก"
+      },
+      {
+        "eng": "any",
+        "thai": "ใด ๆ"
+      },
+      {
+        "eng": "work",
+        "thai": "งาน"
+      },
+      {
+        "eng": "now",
+        "thai": "ตอนนี้"
+      },
+      {
+        "eng": "may",
+        "thai": "อาจ"
+      },
+      {
+        "eng": "such",
+        "thai": "เช่น"
+      },
+      {
+        "eng": "give",
+        "thai": "ให้"
+      },
+      {
+        "eng": "over",
+        "thai": "เกิน"
+      },
+      {
+        "eng": "think",
+        "thai": "คิด"
+      },
+      {
+        "eng": "most",
+        "thai": "ที่สุด"
+      },
+      {
+        "eng": "even",
+        "thai": "สม่ำเสมอ"
+      },
+      {
+        "eng": "find",
+        "thai": "หา"
+      },
+      {
+        "eng": "day",
+        "thai": "วัน"
+      },
+      {
+        "eng": "also",
+        "thai": "อีกด้วย"
+      },
+      {
+        "eng": "after",
+        "thai": "หลังจาก"
+      },
+      {
+        "eng": "way",
+        "thai": "ทาง"
+      },
+      {
+        "eng": "many",
+        "thai": "มากมาย"
+      },
+      {
+        "eng": "must",
+        "thai": "ต้อง"
+      },
+      {
+        "eng": "look",
+        "thai": "ดู"
+      },
+      {
+        "eng": "before",
+        "thai": "ก่อน"
+      },
+      {
+        "eng": "great",
+        "thai": "ยอดเยี่ยม"
+      },
+      {
+        "eng": "back",
+        "thai": "กลับ"
+      },
+      {
+        "eng": "through",
+        "thai": "ผ่าน"
+      },
+      {
+        "eng": "long",
+        "thai": "ยาว"
+      },
+      {
+        "eng": "where",
+        "thai": "ที่ไหน"
+      },
+      {
+        "eng": "much",
+        "thai": "มาก"
+      },
+      {
+        "eng": "should",
+        "thai": "ควร"
+      },
+      {
+        "eng": "well",
+        "thai": "ดี"
+      },
+      {
+        "eng": "people",
+        "thai": "ผู้คน"
+      },
+      {
+        "eng": "down",
+        "thai": "ลง"
+      },
+      {
+        "eng": "own",
+        "thai": "เป็นเจ้าของ"
+      },
+      {
+        "eng": "just",
+        "thai": "แค่"
+      },
+      {
+        "eng": "because",
+        "thai": "เพราะ"
+      },
+      {
+        "eng": "good",
+        "thai": "ดี"
+      },
+      {
+        "eng": "each",
+        "thai": "แต่ละ"
+      },
+      {
+        "eng": "those",
+        "thai": "เหล่านั้น"
+      },
+      {
+        "eng": "feel",
+        "thai": "รู้สึก"
+      },
+      {
+        "eng": "seem",
+        "thai": "ดูเหมือน"
+      },
+      {
+        "eng": "how",
+        "thai": "อย่างไร"
+      },
+      {
+        "eng": "high",
+        "thai": "สูง"
+      },
+      {
+        "eng": "too",
+        "thai": "ด้วย"
+      },
+      {
+        "eng": "place",
+        "thai": "สถานที่"
+      },
+      {
+        "eng": "little",
+        "thai": "เล็กน้อย"
+      },
+      {
+        "eng": "world",
+        "thai": "โลก"
+      },
+      {
+        "eng": "very",
+        "thai": "มาก"
+      },
+      {
+        "eng": "still",
+        "thai": "นิ่ง"
+      },
+      {
+        "eng": "nation",
+        "thai": "ชาติ"
+      },
+      {
+        "eng": "hand",
+        "thai": "มือ"
+      },
+      {
+        "eng": "old",
+        "thai": "เก่า"
+      },
+      {
+        "eng": "life",
+        "thai": "ชีวิต"
+      },
+      {
+        "eng": "tell",
+        "thai": "บอก"
+      },
+      {
+        "eng": "write",
+        "thai": "เขียน"
+      },
+      {
+        "eng": "become",
+        "thai": "กลายเป็น"
+      },
+      {
+        "eng": "here",
+        "thai": "ที่นี่"
+      },
+      {
+        "eng": "show",
+        "thai": "แสดง"
+      },
+      {
+        "eng": "house",
+        "thai": "บ้าน"
+      },
+      {
+        "eng": "both",
+        "thai": "ทั้งสอง"
+      },
+      {
+        "eng": "between",
+        "thai": "ระหว่าง"
+      },
+      {
+        "eng": "need",
+        "thai": "ความต้องการ"
+      },
+      {
+        "eng": "mean",
+        "thai": "หมายถึง"
+      },
+      {
+        "eng": "call",
+        "thai": "เรียก"
+      },
+      {
+        "eng": "develop",
+        "thai": "พัฒนา"
+      },
+      {
+        "eng": "under",
+        "thai": "ภายใต้"
+      },
+      {
+        "eng": "last",
+        "thai": "ล่าสุด"
+      },
+      {
+        "eng": "right",
+        "thai": "ขวา"
+      },
+      {
+        "eng": "move",
+        "thai": "เคลื่อนไหว"
+      },
+      {
+        "eng": "thing",
+        "thai": "สิ่ง"
+      },
+      {
+        "eng": "general",
+        "thai": "ทั่วไป"
+      },
+      {
+        "eng": "school",
+        "thai": "โรงเรียน"
+      },
+      {
+        "eng": "never",
+        "thai": "ไม่เคย"
+      },
+      {
+        "eng": "same",
+        "thai": "เหมือนกัน"
+      },
+      {
+        "eng": "another",
+        "thai": "อื่น"
+      },
+      {
+        "eng": "begin",
+        "thai": "เริ่ม"
+      },
+      {
+        "eng": "while",
+        "thai": "ในขณะที่"
+      },
+      {
+        "eng": "number",
+        "thai": "ตัวเลข"
+      },
+      {
+        "eng": "part",
+        "thai": "ส่วนหนึ่ง"
+      },
+      {
+        "eng": "turn",
+        "thai": "เปลี่ยน"
+      },
+      {
+        "eng": "real",
+        "thai": "จริง"
+      },
+      {
+        "eng": "leave",
+        "thai": "ออกจาก"
+      },
+      {
+        "eng": "might",
+        "thai": "อาจ"
+      },
+      {
+        "eng": "want",
+        "thai": "ต้องการ"
+      },
+      {
+        "eng": "point",
+        "thai": "จุด"
+      },
+      {
+        "eng": "form",
+        "thai": "รูปร่าง"
+      },
+      {
+        "eng": "off",
+        "thai": "ปิด"
+      },
+      {
+        "eng": "child",
+        "thai": "เด็ก"
+      },
+      {
+        "eng": "few",
+        "thai": "น้อย"
+      },
+      {
+        "eng": "small",
+        "thai": "เล็ก"
+      },
+      {
+        "eng": "since",
+        "thai": "ตั้งแต่"
+      },
+      {
+        "eng": "against",
+        "thai": "ขัดต่อ"
+      },
+      {
+        "eng": "ask",
+        "thai": "ถาม"
+      },
+      {
+        "eng": "late",
+        "thai": "ช้า"
+      },
+      {
+        "eng": "home",
+        "thai": "บ้าน"
+      },
+      {
+        "eng": "interest",
+        "thai": "น่าสนใจ"
+      },
+      {
+        "eng": "large",
+        "thai": "ใหญ่"
+      },
+      {
+        "eng": "person",
+        "thai": "บุคคล"
+      },
+      {
+        "eng": "end",
+        "thai": "จบ"
+      },
+      {
+        "eng": "open",
+        "thai": "เปิด"
+      },
+      {
+        "eng": "public",
+        "thai": "สาธารณะ"
+      },
+      {
+        "eng": "follow",
+        "thai": "ติดตาม"
+      },
+      {
+        "eng": "during",
+        "thai": "ในระหว่าง"
+      },
+      {
+        "eng": "present",
+        "thai": "ปัจจุบัน"
+      },
+      {
+        "eng": "without",
+        "thai": "ปราศจาก"
+      },
+      {
+        "eng": "again",
+        "thai": "อีกครั้ง"
+      },
+      {
+        "eng": "hold",
+        "thai": "ถือ"
+      },
+      {
+        "eng": "govern",
+        "thai": "ปกครอง"
+      },
+      {
+        "eng": "around",
+        "thai": "รอบ ๆ"
+      },
+      {
+        "eng": "possible",
+        "thai": "เป็นไปได้"
+      },
+      {
+        "eng": "head",
+        "thai": "ศีรษะ"
+      },
+      {
+        "eng": "consider",
+        "thai": "พิจารณา"
+      },
+      {
+        "eng": "word",
+        "thai": "คำ"
+      },
+      {
+        "eng": "program",
+        "thai": "โปรแกรม"
+      },
+      {
+        "eng": "problem",
+        "thai": "ปัญหา"
+      },
+      {
+        "eng": "however",
+        "thai": "อย่างไรก็ตาม"
+      },
+      {
+        "eng": "lead",
+        "thai": "ตะกั่ว"
+      },
+      {
+        "eng": "system",
+        "thai": "ระบบ"
+      },
+      {
+        "eng": "set",
+        "thai": "ชุด"
+      },
+      {
+        "eng": "order",
+        "thai": "คำสั่ง"
+      },
+      {
+        "eng": "eye",
+        "thai": "ดวงตา"
+      },
+      {
+        "eng": "plan",
+        "thai": "วางแผน"
+      },
+      {
+        "eng": "run",
+        "thai": "วิ่ง"
+      },
+      {
+        "eng": "keep",
+        "thai": "เก็บไว้"
+      },
+      {
+        "eng": "face",
+        "thai": "ใบหน้า"
+      },
+      {
+        "eng": "fact",
+        "thai": "ข้อเท็จจริง"
+      },
+      {
+        "eng": "group",
+        "thai": "กลุ่ม"
+      },
+      {
+        "eng": "play",
+        "thai": "เล่น"
+      },
+      {
+        "eng": "stand",
+        "thai": "ยืน"
+      },
+      {
+        "eng": "increase",
+        "thai": "เพิ่มขึ้น"
+      },
+      {
+        "eng": "early",
+        "thai": "แต่แรก"
+      },
+      {
+        "eng": "course",
+        "thai": "คอร์ส"
+      },
+      {
+        "eng": "change",
+        "thai": "เปลี่ยน"
+      },
+      {
+        "eng": "help",
+        "thai": "ช่วย"
+      },
+      {
+        "eng": "line",
+        "thai": "ไลน์"
+      }
+    ]
+  }

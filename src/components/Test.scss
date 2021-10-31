@@ -1,0 +1,64 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 147.16px;
+    overflow: hidden;
+    width: 60%;
+    gap: 28.8px 0;
+    user-select: none;
+    scroll-behavior: smooth;
+    .word{
+        display: flex;
+        span{
+            text-align: center;
+            width: 13.46px;
+            height: 29.09px;
+            overflow: hidden;
+        }
+        .eng{
+            font-family: var(--roboto-mono-font);
+            color: var(--test-color);
+            font-size: 1.4rem;
+            font-weight: 500;
+        }
+        .right{
+            color: var(--right-color);
+        }
+        .wrong{
+            color: var(--wrong-color);
+        }
+        .extra {
+            opacity: 0.6;
+        }
+
+        &.wrong .eng span:not(.right){
+            text-decoration: 2px underline var(--wrong-color);
+        }
+        &#active{
+            .eng{
+                position: relative;
+                width: max-content;
+            }
+        }
+        #caret{
+            position: absolute;
+            background-color: var(--font-color);
+            opacity: .5;
+            transition: left .1s ease;
+            &.blink{
+                animation: blink 1.5s infinite 1s;
+            }
+        }
+        @keyframes blink {
+            0%,
+            100% {
+                opacity: .5;
+            }
+            50% {
+                opacity: 0;
+            }
+        }
+    }
+}
